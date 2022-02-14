@@ -3,3 +3,8 @@ Emoji
 Typing option
 colors
 vibrant
+dark mode
+video call
+sticker
+voice call
+send video,audio & file
